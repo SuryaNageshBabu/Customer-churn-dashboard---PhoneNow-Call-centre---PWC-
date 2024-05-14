@@ -8,4 +8,8 @@
 
 ## Overview
 
-Addressing the problem statement of Customer churn and their use of services at PhoneNow (Call centre), I have designed and built a dashboard and a static report on Power BI to cater the requisites provided by the Retention manager at PhoneNow.
+Addressing the problem statement of Customer churn and to provide a granular view on the customers use of services at PhoneNow (Call centre), I have designed and built a interactive dashboard that gives an overview on the demographics of the customers with relevance to the churn rate and a static report relecting on the use of services by the PhoneNow's customers based on the requisites provided by the Retention manager at PhoneNow. (This Power BI dashboard that I have created here was my proposal to the problem statetment provided by PWC as part of their virtual internship program)
+
+## The Creator's view point
+
+
