@@ -25,3 +25,7 @@ Addressing the problem statement of Customer churn and to provide a granular vie
 
 - I further have created a static report focusing on the use of all the different services by PhoneNow's customers.
 
+## Dataset 
+
+The dataset used in this project contains both demographic information and some data illustrating the relationship between the company and the customers like the tenure, services customers have subscribed to etc. The data is collected by PhoneNow and owned by PhoneNow.
+
