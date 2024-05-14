@@ -39,3 +39,8 @@ The dataset used in this project contains both demographic information and some 
 - Customeer account information: how long as a customer, contract type, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
 
 
+## Get in touch
+
+Feel free to share your feedback. You can reachouot to me through [Linkedin](https://www.linkedin.com/in/suryanageshbabu/)
+
+
