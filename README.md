@@ -17,3 +17,11 @@ Addressing the problem statement of Customer churn and to provide a granular vie
 
 ![PhoneNow services dashboard](https://github.com/SuryaNageshBabu/Customer-churn-dashboard---PhoneNow-Call-centre---PWC-/blob/main/Customer%20retention%20services.png)
 
+- I have always been so very consious about the design of the dashboard, I don't just want it to give insights but I also want to make sure the end user is drwan into the flow of it. This probably could be the fact that I graduated out of a bachelor program which in itself had a lot of focus on the design of machines and elements, I have also loved spending hours on the design software like Solidworks etc, this may be is subconciously driving me to transistion those skills and as a result, I ended up using Figma for designing the background and the frames holding the infographics. Although the output is a bare minimum of what Figma can offer in terms of design, but neverthess I did get started with it.
+
+- The colour schema used in this project closely resembles the palette of colours from the company's logo, I beleive this makes it more brand centric.
+
+- I have designed the dashboard with a primary focus on the demographics of PhoneNow's customers. Since the predominant focus is on customer churn I have used a slicer to clearly show the difference in demographics between the existing customers and customers who have churned.
+
+- I further have created a static report focusing on the use of all the different services by PhoneNow's customers.
+
