@@ -12,4 +12,4 @@ Addressing the problem statement of Customer churn and to provide a granular vie
 
 ## The Creator's view point
 
-![PhoneNow churn demographics](https://github.com/SuryaNageshBabu/Customer-churn-dashboard---PhoneNow-Call-centre---PWC-/blob/main/Customer%20retention%20demographics.png)
+![PhoneNow churn demographics]
