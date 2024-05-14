@@ -29,3 +29,13 @@ Addressing the problem statement of Customer churn and to provide a granular vie
 
 The dataset used in this project contains both demographic information and some data illustrating the relationship between the company and the customers like the tenure, services customers have subscribed to etc. The data is collected by PhoneNow and owned by PhoneNow.
 
+## Key metrics explored
+
+- Demographic info abot customers - gender, age, range and if they have partners and dependents
+- Customers churned, Churn rate
+- Relationship between customer's tenure with the company and the churn rate
+- Services customers have signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support and streaming TV and movies
+- Difference in use of services between the existing customers and those who have churned
+- Customeer account information: how long as a customer, contract type, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
+
+
